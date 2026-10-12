@@ -1,0 +1,9 @@
+# binaries
+/bloomkit
+*.exe
+*.test
+*.out
+# editor
+.idea/
+.vscode/
+.DS_Store
